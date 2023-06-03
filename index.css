@@ -1,0 +1,146 @@
+/* Reset default browser styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  .cover-image {
+    text-align: center;
+  }
+  
+  .cover-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+  }
+  
+  header {
+    background-color: #34495e;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    color: #34495e;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-bottom: 15px;
+  }
+  
+  footer {
+    background-color: #34495e;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+  }
+
+  #features {
+    margin-top: 30px;
+  }
+  
+  .feature {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .feature img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .feature h3 {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .feature p {
+    margin-top: 10px;
+  }
+
+  #about {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #about h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  #about p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #666;
+    margin-bottom: 15px;
+  }
+  
+  .team-members {
+    margin-top: 30px;
+  }
+  
+  .team-members h3 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .team-members ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .team-members ul li {
+    margin-bottom: 10px;
+  }
+  
+  .team-members ul li a {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  .team-members ul li a i {
+    margin-right: 5px;
+  }
+  
+  
+  
